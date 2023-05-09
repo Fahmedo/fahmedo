@@ -71,7 +71,7 @@
 
 <p align="center">
 
-<a href="(https://twitter.com/da_horlie"><img alt="Twittwer" src="https://thumbs.dreamstime.com/b/twitter-logo-bird-isolated-over-white-background-social-media-networking-communications-symbol-breaking-news-130861855.jpg"></a>
+<a href="(https://twitter.com/da_horlie"><img alt="Twittwer" src="https://twitter.com"></a>
 
 <a href="https://www.linkedin.com/in/faruq-ahmed-6116a4232/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
 
