@@ -45,7 +45,7 @@
 
 <br/><br/>
 
-[![Faruq's GitHub Stats](nextjs-s2gz-58yzwl4wb-fahmedo.vercel.app/api?username=Fahmedo&show_icons=true)](https://github.com/Fahmedo)
+[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true)](https://github.com/shivam0110)
 
 <br/>
 
@@ -53,7 +53,7 @@
 
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
-![Top Langs](nextjs-s2gz-58yzwl4wb-fahmedo.vercel.app/api/top-langs/?username=Fahmedo&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
 
 <br><br>
 
