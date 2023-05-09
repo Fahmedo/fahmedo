@@ -71,13 +71,13 @@
 
 <p align="center">
 
-<a href="(https://twitter.com/da_horlie"><img alt="Twittwer" src="https://twitter.com"></a>
+<a href="https://twitter.com/da_horlie"><img alt="Twittwer" src="https://img.shields.io/badge/Ola_kanbayi-i__disbalance-black?style=flat-square&logo=twitter"></a>
 
 <a href="https://www.linkedin.com/in/faruq-ahmed-6116a4232/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="https://www.instagram.com/ola_kanbayi/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
 
-<a href="faruqahmedolaitan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="faruqahmedolaitan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-faruqahmedolaitan@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
