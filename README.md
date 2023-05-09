@@ -45,7 +45,7 @@
 
 <br/><br/>
 
-[![Faruq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fahmedo&show_icons=true)](https://github.com/Fahmedo)
+[![Faruq's GitHub Stats](nextjs-s2gz-58yzwl4wb-fahmedo.vercel.app/api?username=Fahmedo&show_icons=true)](https://github.com/Fahmedo)
 
 <br/>
 
@@ -53,7 +53,7 @@
 
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahmedo&show_icons=true)
+![Top Langs](nextjs-s2gz-58yzwl4wb-fahmedo.vercel.app/api/top-langs/?username=Fahmedo&show_icons=true)
 
 <br><br>
 
@@ -71,11 +71,11 @@
 
 <p align="center">
 
-<a href="https://twitter.com/da_horlie"><img alt="Twittwer" src="https://img.shields.io/badge/Ola_kanbayi-i__disbalance-black?style=flat-square&logo=twitter"></a>
+<a href="https://twitter.com/da_horlie"><img alt="Twittwer" src="https://img.shields.io/badge/twitter-Ola_kanbayi-black?style=flat-square&logo=twitter"></a>
 
-<a href="https://www.linkedin.com/in/faruq-ahmed-6116a4232/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/faruq-ahmed-6116a4232/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Faruq Ahmed-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://www.instagram.com/ola_kanbayi/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/ola_kanbayi/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram--black?style=flat-square&logo=instagram"></a>
 
 <a href="faruqahmedolaitan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-faruqahmedolaitan@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
