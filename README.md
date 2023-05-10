@@ -13,7 +13,7 @@
 - 🌱 &nbsp; Currently learning angular.
 
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
-- ⚡ &nbsp; Fun Fact my playing around code is what i do for fun.
+- ⚡ &nbsp; Fun Fact: playing around code is what i do for fun.
 
 
 
