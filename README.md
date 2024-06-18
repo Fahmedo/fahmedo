@@ -23,31 +23,28 @@
 
 
 
-- 🌐 &nbsp;  [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Quananhle/Front-End-Dev)
-  [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Quananhle/Front-End-Dev) 
-  [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Quananhle/Front-End-Dev) 
-  [![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Quananhle/Front-End-Dev) 
-[![Vue.js](https://img.shields.io/badge/-Vue.js-019733?style=flat&logo=Vue.js&logoColor=white&link=https://github.com/Quananhle "Vue.js")](https://github.com/Quananhle)
+- 🌐 &nbsp;  [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/fahmedo)](https://github.com/fahmedo)
+  [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/fahmedo)](https://github.com/fahmedo) 
+  [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/fahmedo)](https://github.com/fahmedo) 
+  [![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&link=https://github.com/fahmedo)](https://github.com/fahmedo)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+[![Vue.js](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js&link=https://github.com/fahmedo)](https://github.com/fahmedo)
+[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&link=https://github.com/fahmedo)](https://github.com/fahmedo)
+
 
 <!--
 
 
 - 🔧 &nbsp; Git | GitHub
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/fahmedo)](https://github.com/fahmedo) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/fahmedo)](https://github.com/fahmedo)
 
 -->
-- 🔧 &nbsp; [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Quananhle)](https://github.com/Quananhle) <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
+- 🔧 &nbsp; [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/fahmedo)](https://github.com/fahmedo) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/fahmedo)](https://github.com/fahmedo) <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
 
 
-
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp; React.js | Firebase | Next.js | Motion.js
-
-<hr>
 
 
 
@@ -79,7 +76,7 @@
 
 <p align="center">
 
-<a href="https://twitter.com/da_horlie"><img alt="Twittwer" src="https://img.shields.io/badge/twitter-Ola_kanbayi-black?style=flat-square&logo=twitter"></a>
+[![Twitter: Ola_kanbayi](https://img.shields.io/twitter/follow/code_da_horlie?style=social)](https://twitter.com/code_da_horlie)
 
 <a href="https://www.linkedin.com/in/faruq-ahmed-6116a4232/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Faruq Ahmed-blue?style=flat-square&logo=linkedin"></a>
 
